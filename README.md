@@ -3,6 +3,8 @@ Extended instrumental variable regressions with multiple levels of fixed effects
 
 Run IV/2SLS with many levels of fixed effects (i.e. ivreg2+reghdfe) Use ivreghdfe With STATA 18
 
+https://www.youtube.com/watch?v=RMV-IVk7heg
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
